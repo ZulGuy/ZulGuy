@@ -1,8 +1,9 @@
-# 💫 About Me:
-🔭 I`m currently working on getting a job as a developer.<br>
-🤝 I am looking for help with software design patterns and how to use them in real projects.<br>
-🌱 I`m currently learning how to implement microservice architecture.<br>
-💬 Ask me about everything related to developmnet process. I`ll be glad to speak.<br>
+## 💫 About Me
+
+- 🔭 I’m currently working on getting a job as a developer
+- 🤝 I am looking for help with software design patterns and how to use them in real projects
+- 🌱 I’m currently learning how to implement microservice architecture
+- 💬 Ask me about everything related to development process. I’ll be glad to speak
 
 
 ## 🌐 Socials:
