@@ -1,9 +1,8 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on getting a job as a developer
-- 🤝 I am looking for help with software design patterns and how to use them in real projects
-- 🌱 I’m currently learning how to implement microservice architecture
-- 💬 Ask me about everything related to development process. I’ll be glad to speak
+Java Backend Developer with four self-initiated side projects: a project management system with multitenancy at the PostgreSQL schema level, a financial tracker, a job application tracker, and an AI bot 
+assistant for IT support. Stack: Java 17/21, Spring Boot 3, PostgreSQL, Docker, Angular 19/21. Currently 
+Head of Support at Kernel Digital LLC, leading a team and managing the Atlassian stack.
 
 
 ## 🌐 Socials:
